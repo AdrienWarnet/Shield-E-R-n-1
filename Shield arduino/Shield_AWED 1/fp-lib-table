@@ -1,0 +1,12 @@
+(fp_lib_table
+  (lib (name IUT-CAPACITORS)(type Legacy)(uri "$(KIPRJMOD)/LibIut/mod/IUT-CAPACITORS.mod")(options "")(descr ""))
+  (lib (name IUT-CIRCUITS)(type Legacy)(uri "$(KIPRJMOD)/LibIut/mod/IUT-CIRCUITS.mod")(options "")(descr ""))
+  (lib (name IUT-CONNECTIQUE)(type Legacy)(uri "$(KIPRJMOD)/LibIut/mod/IUT-CONNECTIQUE.mod")(options "")(descr ""))
+  (lib (name IUT-DIODES)(type Legacy)(uri "$(KIPRJMOD)/LibIut/mod/IUT-DIODES.mod")(options "")(descr ""))
+  (lib (name IUT-DIP_SOCKETS)(type Legacy)(uri "$(KIPRJMOD)/LibIut/mod/IUT-DIP_SOCKETS.mod")(options "")(descr ""))
+  (lib (name IUT-DIVERS)(type Legacy)(uri "$(KIPRJMOD)/LibIut/mod/IUT-DIVERS.mod")(options "")(descr ""))
+  (lib (name IUT-RESISTORS)(type Legacy)(uri "$(KIPRJMOD)/LibIut/mod/IUT-RESISTORS.mod")(options "")(descr ""))
+  (lib (name IUT-TRANSISTORS)(type Legacy)(uri "$(KIPRJMOD)/LibIut/mod/IUT-TRANSISTORS.mod")(options "")(descr ""))
+  (lib (name POTSMD)(type KiCad)(uri "$(KIPRJMOD)/mod/POTSMD.pretty")(options "")(descr ""))
+  (lib (name SongleRelay)(type Legacy)(uri "$(KIPRJMOD)/mod/SongleRelay.mod")(options "")(descr ""))
+)

@@ -1,0 +1,57 @@
+PCBNEW-LibModule-V1  dim. 27 déc. 2015 19:23:22 CET
+# encoding utf-8
+Units mm
+$INDEX
+SONGLE_RELAY
+$EndINDEX
+$MODULE SONGLE_RELAY
+Po 0 0 0 15 56802C61 00000000 ~~
+Li SONGLE_RELAY
+Sc 0
+AR 
+Op 0 0 0
+T0 0.2 3.3 1.524 1.524 0 0.3048 N V 21 N "SONGLE_RELAY"
+T1 0 -2.8 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS 9.6 7.8 9.6 -7.8 0.381 21
+DS -9.5 7.8 9.6 7.8 0.381 21
+DS -9.5 -7.9 9.6 -7.9 0.381 21
+DS 9.6 -7.9 9.5 -7.9 0.381 21
+DS -9.5 0 -9.5 7.8 0.381 21
+DS -9.5 0 -9.5 -7.8 0.381 21
+$PAD
+Sh "3" C 2.2 2.2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.1 0
+$EndPAD
+$PAD
+Sh "1" C 2.2 2.2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.1 -6
+$EndPAD
+$PAD
+Sh "2" C 2.2 2.2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.1 6
+$EndPAD
+$PAD
+Sh "5" C 2.2 2.2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.1 -6
+$EndPAD
+$PAD
+Sh "4" C 2.2 2.2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 6
+$EndPAD
+$EndMODULE SONGLE_RELAY
+$EndLIBRARY
